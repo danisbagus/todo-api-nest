@@ -2,7 +2,7 @@
 
 ## Description
 
-Todo list api using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Todo list api using [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
