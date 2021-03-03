@@ -1,0 +1,10 @@
+version: "3"
+services:
+  web:
+    build: .
+    image: todo_api_nestjs
+    container_name: todo_api_nest
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
